@@ -20,7 +20,7 @@ public class HrManager extends Employee {
         System.out.println("Working days: ");
         Work_days = scn.nextInt();
         
-        Salary = Work_days * 575;
+        Salary = Work_days * 10000;
         
     }
     
